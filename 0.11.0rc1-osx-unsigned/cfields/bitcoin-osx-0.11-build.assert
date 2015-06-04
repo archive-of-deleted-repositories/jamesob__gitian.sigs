@@ -1,16 +1,16 @@
 --- !omap
-- out_manifest: ! 'e94b5053da18d13b326aae4e12fdd79498eda463a110fdb7974c836e0b4bb81c  bitcoin-0.11.0-osx-unsigned.dmg
+- out_manifest: ! '8cb3abd3d9dcf76971c1b15aa3e5274927e1a64459dc98b1b6a23dd8eb0a635e  bitcoin-0.11.0-osx-unsigned.dmg
 
-    5d64b50c5b2adf3a63e019d4eb59ad6ef0f6fd793d9dc21c7553bf57eefa63cc  bitcoin-0.11.0-osx-unsigned.tar.gz
+    25dcba67bba25833997c20e37df72cbb83e4d4cc4bb5d7c609161449295c6bb9  bitcoin-0.11.0-osx-unsigned.tar.gz
 
-    980a6d8f9ef9868cdcb198e3bc27cbcdfc46722fedbda1ba0240daf6ee085003  bitcoin-0.11.0-osx64.tar.gz
+    98fee49420e87e9749ebaddfe7678ae4b2df182ecfbea1200173e1311e4e335b  bitcoin-0.11.0-osx64.tar.gz
 
     3dd1356ab534367790214affb314462754cfd510f23fcaf027ef852474c39bc7  src/bitcoin-0.11.0.tar.gz
 
 '
 - in_manifest: ! '98c4f27534742ddd223a1a47b3a9f393174dbf836fdda42b8c1a53d4f996dbca  bitcoin-osx-0.11-desc.yml
 
-    eedbed4f7d1d41e07b7b2e73a84c184fa67c6ad5c8afbdbe5c392e12dbbafa6a  MacOSX10.9.sdk.tar.gz
+    8015ee7282221181c7309949d9e5fa4923ef65839dde1972d7cd66e71e0240cd  MacOSX10.9.sdk.tar.gz
 
     git:32b011781da53df252216ca8a0f34603076f93a9 bitcoin'
 - base_manifests: !omap
@@ -824,9 +824,9 @@
 
     0a095ff16e07692f70e20e8edbbc6ed5e5f9589de997caed1df0844e4d35ef9a  x86_64-apple-darwin11/native_ccache/native_ccache-3.1.9-920dd81f216.tar.gz.hash
 
-    f1f9032a90b6169a84ba272b8c74ea474563501d037fc3a8c3bb63bfccc4ab6a  x86_64-apple-darwin11/native_cctools/native_cctools-ee31ae567931c426136c94aad457c7b51d844beb-9cd1fe0b799.tar.gz
+    b23398dcf0592736f05c9499d45cefe711e4b12e3d62c5ef3eff527c84543ff0  x86_64-apple-darwin11/native_cctools/native_cctools-ee31ae567931c426136c94aad457c7b51d844beb-9cd1fe0b799.tar.gz
 
-    408254e20d6cabafc0db64e78247a14f2e35f0ac0c59ccdbb03fa1ace45f013e  x86_64-apple-darwin11/native_cctools/native_cctools-ee31ae567931c426136c94aad457c7b51d844beb-9cd1fe0b799.tar.gz.hash
+    ef2b54977539699e2b8b0f938d03bd239f769f79ab506cc958edac9e968e226c  x86_64-apple-darwin11/native_cctools/native_cctools-ee31ae567931c426136c94aad457c7b51d844beb-9cd1fe0b799.tar.gz.hash
 
     9983d104637d18f8e94f7d37c5ba74e6f0feb8a7516547fa70dfecf8769dcb60  x86_64-apple-darwin11/native_cdrkit/native_cdrkit-1.1.11-7e30dc7501c.tar.gz
 
