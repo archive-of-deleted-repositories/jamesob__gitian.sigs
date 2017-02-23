@@ -262,12 +262,9 @@
       5e5f7aa53a33175c9ccc3087ad592e64f8f4a7891ad31d0247689d187c244f24  libxmuu1_2%3a1.1.1-1_amd64.deb
       ce6486e1bf18818735fd9b6aca6659dbfe73b3cb0d40558fb559fae3dc1746b0  linux-firmware_1.127.23_all.deb
       d5a92a620437a4943b09332c73d5231386825e8f67fa3223d07fd6859b162505  linux-image-3.13.0-108-generic_3.13.0-108.155_amd64.deb
-      4b88beb94e9cf69cbd05c18d4c6d8de6a8af538e93cb9b9ed22d24e193be0bff  linux-image-3.13.0-98-generic_3.13.0-98.145_amd64.deb
       d9dc4de39639f05d0884e4a762dab4fb51f062aa063f540aad4b020fffab9952  linux-image-extra-3.13.0-108-generic_3.13.0-108.155_amd64.deb
-      16a5b4ab8bae3c8594398504ddc5bdb49a73fe4e362c65db4516aad6a71d4f01  linux-image-extra-3.13.0-98-generic_3.13.0-98.145_amd64.deb
       c96b6a5fb3733611ee949d5187588679cce980fff9d38be3fc4f160e524817c1  linux-image-generic_3.13.0.108.116_amd64.deb
       78a7de484b326326015de964ec8c2a9ab26b4cd77f3bdd10ce440af892b00422  linux-image-virtual_3.13.0.108.116_amd64.deb
-      841a7ee406c990c01f7273d3575fb30cea34bf9f771b9abd572ac28d6fb144a4  linux-image-virtual_3.13.0.98.106_amd64.deb
       e61a0a3e97d244b063be6f6294995ca87e273501240773d8576cc9312d9cf9ac  linux-libc-dev_3.13.0-108.155_amd64.deb
       998a5dfc01f07e24fe96321e2ce5a707ba1aef154c1cbacb2483722a0eee2df1  locales_2.13+git20120306-12.1_all.deb
       c375ea23cf7c61fdc7d2029b6661481d2163d6fec6c5fd78ec8fd8fd5ce4c048  lockfile-progs_0.1.17_amd64.deb
@@ -388,7 +385,6 @@
     3728c9a0ac4bd203cbc38b0fc668914eeaaeb7a1c4d3ed9fe18c3a86028e497e  download-stamps/.stamp_fetched-openssl-openssl-1.0.1k.tar.gz.hash
     e412c568c1086517540477f53471bd60e4963b4d1c741eb3077f7384f5e2e013  download-stamps/.stamp_fetched-protobuf-protobuf-2.6.1.tar.bz2.hash
     4f1aae01029d0f1b99e12c7c7277ad2aa6029c6deb679a8b39fbea5f49bceeea  download-stamps/.stamp_fetched-qrencode-qrencode-3.4.4.tar.bz2.hash
-    49670eb4d85707fc02b52060b977a2cc2eae29468150ce843998fb150d84cb30  download-stamps/.stamp_fetched-qt-qtbase-opensource-src-5.6.1.tar.gz.hash
     d9ba3be2b05c4e4004d87ac162c3a07f87d4a9144fb1b5befc1d5097a52c6772  download-stamps/.stamp_fetched-qt-qtbase-opensource-src-5.7.1.tar.gz.hash
     4af4da419d7b883f3408f4481d01673d281d6cfb94ff377d4bd8355db55fcb06  download-stamps/.stamp_fetched-xcb_proto-xcb-proto-1.10.tar.bz2.hash
     ee2477a7137b31b74af6257a0667cf4865dc30627db29457533ad21090a9004b  download-stamps/.stamp_fetched-xextproto-xextproto-7.3.0.tar.bz2.hash
@@ -410,11 +406,8 @@
     8f9faeaebad088e772f4ef5e38252d472be4d878c6b3a2718c10a4fcebe7a41c  openssl-1.0.1k.tar.gz
     ee445612d544d885ae240ffbcbf9267faa9f593b7b101f21d58beceb92661910  protobuf-2.6.1.tar.bz2
     efe5188b1ddbcbf98763b819b146be6a90481aac30cfc8d858ab78a19cde1fa5  qrencode-3.4.4.tar.bz2
-    0ac67cf8d66d52b995f96c31c4b48117a1afb3db99eaa93e20ccd8f7f55f7fde  qtbase-opensource-src-5.6.1.tar.gz
     95f83e532d23b3ddbde7973f380ecae1bac13230340557276f75f2e37984e410  qtbase-opensource-src-5.7.1.tar.gz
-    e0f845de28c31230dfa428f0190ccb3b91d1fc02481b1f064698ae4ef8376aa1  qttools-opensource-src-5.6.1.tar.gz
     22d67de915cb8cd93e16fdd38fa006224ad9170bd217c2be1e53045a8dd02f0f  qttools-opensource-src-5.7.1.tar.gz
-    dcc1534d247babca1840cb6d0a000671801a341ea352d0535474f86adadaf028  qttranslations-opensource-src-5.6.1.tar.gz
     3a15aebd523c6d89fb97b2d3df866c94149653a26d27a00aac9b6d3020bc5a1d  qttranslations-opensource-src-5.7.1.tar.gz
     548362d202e22fe24d4c3fad38287b4f6d683e6c21503341373b89785fa6f991  release-2.1.7-rc.tar.gz
     7ef40ddd855b750bc597d2a435da21e55e502a0fefa85b274f2c922800baaf05  xcb-proto-1.10.tar.bz2
